@@ -2,18 +2,18 @@
 <img src="https://github.com/user-attachments/assets/ed2e13d4-0cb4-4dac-9bfb-a49a392d86a5" width="500" height="300" />
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
-<h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
+<h3 align="center">I am a passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjanmishra004" alt="niranjanmishra004" /></a> </p>
 
 
 <img align="right" alt="codingGIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **WebDev**
+- 🔭 I’m currently working on: **WebDev** & **Shell Scripting** 
 
-- 🌱 I’m currently learning **Web development and mobile development**
+- 🌱 I’m currently learning: **Web development and mobile development**
 
-- 📫 How to reach me **nm4883143@gmail.com**
+- 📫 You can contact me in: **nm4883143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
