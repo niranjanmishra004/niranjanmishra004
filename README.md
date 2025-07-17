@@ -5,6 +5,7 @@
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjanmishra004" alt="niranjanmishra004" /></a> </p>
+<img align="right" alt="codingGIF" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 
 - 🔭 I’m currently working on **WebDev**
 
