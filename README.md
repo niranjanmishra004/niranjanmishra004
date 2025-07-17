@@ -1,4 +1,4 @@
-![Matrix Rain](https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)
+![Matrix Rain](https://your-link-here.com/matrix-rain.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
