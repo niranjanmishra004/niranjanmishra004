@@ -1,4 +1,4 @@
-![Matrix Rain](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Linux+User;Shell+Scripter;Frontend+Web+Developer;Matrix+is+everywhere...)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
