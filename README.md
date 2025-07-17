@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif)
+![Terminal](https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
