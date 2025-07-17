@@ -1,4 +1,4 @@
-![Cyber](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Matrix Banner](https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
