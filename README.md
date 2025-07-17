@@ -1,4 +1,4 @@
-![Matrix Rain](https://i.imgur.com/N2eCkKL.gif)
+![Matrix Binary Code Rain](https://i.pinimg.com/originals/e2/8d/61/e28d61b0ce1b686bbd9c19b98912101f.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
