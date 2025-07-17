@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Linux+User;Shell+Scripter;Frontend+Web+Developer;Matrix+is+everywhere...)
+![Matrix Binary Code Rain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanimations--322570392051813708%2F&psig=AOvVaw1SRocMPQo2BM7JrY4vkYdu&ust=1752848791970000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjPhN-MxI4DFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
