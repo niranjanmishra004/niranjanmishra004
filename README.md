@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Linux%20Lover;Shell%20Scripter;Frontend%20Developer;Open%20Source%20Contributor;Terminal%20Enthusiast&center=true&width=500&height=50)
+![Matrix Rain](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
