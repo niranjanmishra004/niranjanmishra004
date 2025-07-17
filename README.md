@@ -1,3 +1,5 @@
+![MasterHead](https://www.shutterstock.com/shutterstock/videos/3681406379/thumb/11.jpg?ip=x480)
+
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">A passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
 
