@@ -1,5 +1,4 @@
 
-<img src="https://github.com/user-attachments/assets/ed2e13d4-0cb4-4dac-9bfb-a49a392d86a5" width="500" height="300" />
 
 <h1 align="center">Hi 👋, I'm Niranjan Mishra</h1>
 <h3 align="center">I am a passionate frontend developer with skills in Linux,Shell scripting, and web technologies.</h3>
